@@ -54,7 +54,7 @@ export const Home: React.FC = () => {
             </Button>
           </Link>
           <Link to="/signup">
-            <Button size="lg" className="bg-white text-teal-700 hover:bg-gray-100">
+            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-teal-700">
               Get Started
             </Button>
           </Link>
